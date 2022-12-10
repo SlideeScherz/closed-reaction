@@ -11,7 +11,7 @@ const fadeIngreen = () => {
   blink1.setRGB(50, 200, 100);
 };
 
-var isOn = false;
+var isOn = true;
 
 // blink green every second
 setInterval(() => {

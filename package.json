@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "node-blink1": "^0.5.1"
+  },
+  "name": "closed-reaction",
+  "description": "Node application to control blink(1) mk3 usb light",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlideeScherz/closed-reaction.git"
+  },
+  "author": "Scott Scherzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlideeScherz/closed-reaction/issues"
+  },
+  "homepage": "https://github.com/SlideeScherz/closed-reaction#readme"
+}
